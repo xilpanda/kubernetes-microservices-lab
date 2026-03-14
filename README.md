@@ -324,3 +324,5 @@ Future enhancements may include:
 -   Liveness and readiness probes
 -   Helm chart packaging
 -   Monitoring with Prometheus and Grafana
+
+# GitHub portfolio project created as part of hands-on Kubernetes learning and CKA preparation.
